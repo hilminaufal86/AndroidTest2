@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="12dp"
+        android:gravity="top"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/idEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Event"
+            android:textSize="0sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/nameEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:text="Event"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dateEvent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:text="Date"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/imageEvent"
+        android:layout_width="250dp"
+        android:layout_height="125dp"
+        android:layout_weight="1"
+        android:layout_marginEnd="14dp"
+        android:paddingLeft="0dp"
+        app:srcCompat="@mipmap/ic_launcher_round" />
+</LinearLayout>

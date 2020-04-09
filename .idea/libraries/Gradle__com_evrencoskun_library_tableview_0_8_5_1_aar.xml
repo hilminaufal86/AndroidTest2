@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.evrencoskun.library:tableview:0.8.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc487707d1a0babf82ee6cb01af63d21/jetified-tableview-0.8.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc487707d1a0babf82ee6cb01af63d21/jetified-tableview-0.8.5.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.evrencoskun.library/tableview/0.8.5.1/43b8c304841cff08f89c82b139594066dbb7a3fb/tableview-0.8.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.evrencoskun.library/tableview/0.8.5.1/4d7ecd1ce236b8ecbe56646c7cdc490dc2881c75/tableview-0.8.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
